@@ -1,0 +1,3 @@
+[submodule "yiluwiki_back"]
+	path = yiluwiki_back
+	url = https://github.com/CigarCoffee/yiluwiki
