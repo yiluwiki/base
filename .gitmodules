@@ -1,3 +1,6 @@
 [submodule "yiluwiki_back"]
 	path = yiluwiki_back
 	url = https://github.com/CigarCoffee/yiluwiki
+[submodule "yiluwiki_front"]
+	path = yiluwiki_front
+	url = https://github.com/RuntuS/yiluWiki-Forum.git
